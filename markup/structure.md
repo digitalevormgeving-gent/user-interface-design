@@ -99,8 +99,6 @@ Het `<head>`-element is een container voor al de dingen die je wil toevoegen aan
 Het `<body>`-element bevat de **eigenlijke inhoud** van de webpagina die ja aan de bezoeker van deze webpagina wil tonen, zoals: tekst, afbeeldingen, video's, audio-bestanden, ...
 :::
 
-The `<body>` element. This contains all the content that you want to show to web users when they visit your page, whether that's text, images, videos, games, playable audio tracks, or whatever else.
-
 ::: warning Opmerking
  - `<body>` … `</body>`
  - `<body>` is een **descendant** van `<html>`.

@@ -14,7 +14,7 @@ Een descendant van `<body>`
 <a href="http://www.google.be">Google</a>
 ```
 
-::: icon-warning
+::: danger Opgelet
 - Een koppeling in de `<head>` gebeurt **altijd** met een `<link href="" rel="">`, bijv. een CSS-bestand.
 - Een koppeling in de `<body>` gebeurt **altijd** met een `<a href=""></a>`
 - Een koppeling naar een JavaScript-bestand gebeurt altijd met een `<script src=""></script>` en dat kan zowel in de `<head>` als de `<body>`.

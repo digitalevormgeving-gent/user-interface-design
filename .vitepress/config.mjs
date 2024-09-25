@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/web-technology/',
-  title: "Web Technology",
-  description: "Syllabus course Web Technology",
+  base: '/User-interface-design/',
+  title: "User Interface Design",
+  description: "Syllabus course User Interface Design",
   markdown: {
     lineNumbers: true,
   },
